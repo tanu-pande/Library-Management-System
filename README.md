@@ -34,7 +34,7 @@ LibraryManagementSystem/
    cd library-management-system
 ## Sample Output:
 
-![image alt](
+![image alt](https://github.com/tanu-pande/Library-Management-System/blob/f5dd398a760f08e105a78809486767d1a2815273/Screenshot%202025-06-26%20154138.png)
 
 
 
